@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\YilanOyunu2D\bin\Debug\YilanOyunu2D.exe.config
+C:\Users\Lenovo\source\repos\YilanOyunu2D\bin\Debug\YilanOyunu2D.exe
+C:\Users\Lenovo\source\repos\YilanOyunu2D\bin\Debug\YilanOyunu2D.pdb
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.Form1.resources
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.exe
+C:\Users\Lenovo\source\repos\YilanOyunu2D\obj\Debug\YilanOyunu2D.pdb
